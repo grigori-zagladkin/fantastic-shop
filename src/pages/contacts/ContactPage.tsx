@@ -8,7 +8,7 @@ const ContactPage: FC = () => {
                     <h1 className='text-2xl font-bold mb-4'>Контакты</h1>
                     <div className='grid grid-cols-2 grid-rows-[1fr_1fr_1fr_1fr_1fr_1fr_3fr] h-fit text-md'>
                         <div className='font-semibold'>Номер телефона</div>
-                        <div>89999994576</div>
+                        <div>899999945716</div>
                         <div className='font-semibold'>Viber</div>
                         <div>89999994576</div>
                         <div className='font-semibold'>Whatsup</div>
